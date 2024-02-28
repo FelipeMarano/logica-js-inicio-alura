@@ -22,3 +22,5 @@ while (chute != numeroSecreto) {
 
 let palavraTentativa = tentativas > 1 ? "tentativas" : "tentativa";
 alert (`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} ${palavraTentativa}`);
+
+// para ver o *comments.js*, acessar o gist 
